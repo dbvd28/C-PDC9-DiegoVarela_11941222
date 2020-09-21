@@ -33,3 +33,13 @@ read_write.cpp
 ![image](https://user-images.githubusercontent.com/60490932/93726770-0ad99b00-fb75-11ea-8fc4-d59e866cf0ba.png)
 read-write salida
 ![image](https://user-images.githubusercontent.com/60490932/93726780-17f68a00-fb75-11ea-8447-ba97c7745215.png)
+inciso2.cpp
+![image](https://user-images.githubusercontent.com/60490932/93727622-2181f100-fb79-11ea-92e8-d6a8b7ae2f0c.png)
+inciso2 salida
+![image](https://user-images.githubusercontent.com/60490932/93727630-31013a00-fb79-11ea-9a33-e206487d1f1f.png)
+inciso 3.cpp
+![image](https://user-images.githubusercontent.com/60490932/93727636-3eb6bf80-fb79-11ea-8e3f-c348f95f1980.png)
+inciso 3 salida
+![image](https://user-images.githubusercontent.com/60490932/93727640-44aca080-fb79-11ea-9f44-687821de93bd.png)
+Archivos de texto.cpp
+![image](https://user-images.githubusercontent.com/60490932/93727682-76256c00-fb79-11ea-9293-6aa067ee8f76.png)
