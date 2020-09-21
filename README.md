@@ -33,5 +33,3 @@ read_write.cpp
 ![image](https://user-images.githubusercontent.com/60490932/93726770-0ad99b00-fb75-11ea-8fc4-d59e866cf0ba.png)
 read-write salida
 ![image](https://user-images.githubusercontent.com/60490932/93726780-17f68a00-fb75-11ea-8447-ba97c7745215.png)
-
-
